@@ -1,0 +1,21 @@
+{
+  "name": "altschool",
+  "version": "1.0.0",
+  "description": "Completion of altschool first task",
+  "main": "task1.js",
+  "scripts": {
+    "task1": "node task1",
+    "task2": "node task2",
+    "task3": "node task3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyghdrogin/altSchool.git"
+  },
+  "author": "Omopariola Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyghdrogin/altSchool/issues"
+  },
+  "homepage": "https://github.com/hyghdrogin/altSchool#readme"
+}
